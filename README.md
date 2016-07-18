@@ -1,15 +1,10 @@
 # expansion
 c# expansion methods
 
-Collections
-
-Compare
-
-Object
-
-Random
-
-Serialize Json
-
-String
+Collections   
+Compare   
+Object    
+Random  
+Serialize Json  
+String  
 
